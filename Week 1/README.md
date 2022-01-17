@@ -1,5 +1,5 @@
 # Week 1 - C
-Introduction on a very traditional syntax based program - C
+Introduction to a very traditional syntax based program - C
 
 ## Problem 1 - Mario
 Problem: is to create a pyramid and the input is only in between 1-8
