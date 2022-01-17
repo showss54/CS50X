@@ -1,4 +1,4 @@
-# Week 1 - C | Arrays, Data Types
+# Week 2 - C | Arrays, Data Types
 Introduction to a very traditional syntax based program - C
 
 ## Problem 1 - Readability
