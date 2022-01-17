@@ -1,4 +1,4 @@
-# Week 1 - C
+# Week 1 - C | Introduction
 Introduction to a very traditional syntax based program - C
 
 ## Problem 1 - Mario
