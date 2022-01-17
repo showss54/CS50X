@@ -7,3 +7,4 @@ Harvard University and HarvardX introduce CS50 course:
 
 ## Labs / Problem Sets
 [Week 1](https://github.com/showss54/CS50X/tree/main/Week%201)
+[Week 2](https://github.com/showss54/CS50X/blob/main/Week%202)
