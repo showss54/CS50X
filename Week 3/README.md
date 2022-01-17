@@ -3,6 +3,7 @@ Introduction to struct
 
 ## Problem 1 - Plurality
 Problem: Write the name of the election candidates in the cmd line, get int to ask how many people will be voting and ask the same number of time for the vote. Once all the votes have been collated, populate who has received the most vote. 
+
 Example:![image](https://user-images.githubusercontent.com/87976355/149846991-2b0c59b6-2cfb-4728-b9cf-ba71a8e88eb9.png)
 
 ## Problem 2
